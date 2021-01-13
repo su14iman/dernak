@@ -1,0 +1,22 @@
+{
+    "dernak":{
+        0:{
+            "isim":"ahmet",
+            "adres":"istanbul",
+            "ucret":"100"
+        },
+        1:{
+            "isim":"memeht",
+            "adres":"kilis",
+            "ucret":"500"
+        }
+    },
+    "dernak2":{
+        0:{
+            "isim":"can",
+            "adres":"kasire",
+            "ucret":"100"
+        }
+    }
+
+}
